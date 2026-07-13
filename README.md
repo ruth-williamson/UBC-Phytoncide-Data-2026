@@ -8,3 +8,7 @@ Or you can work from the raw xml files and transform them yourself. To do that p
 If you are just here to see the more extensive report/analysis. You will need to use the phytoncide_collection_ubc_working_file.qmd and have ready for it to read both the tidy pumps count xlsx and the phyto_ubc_dat.csv.
 
 Once you have those in there, just make sure all the libraries are working. Set your working directory and then run/render the file into html.
+
+
+If you would like to run the data through MetaboAnalyst yourself, just download the "metabo_ubc.csv" file and use that to input into MetaboAnalyst. Detailed instructions for this are found in the "phytoncide_collection_ubc_working_file.qmd"
+
